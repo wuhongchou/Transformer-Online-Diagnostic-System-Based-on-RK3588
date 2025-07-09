@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>option</class>
+ <widget class="QWidget" name="option">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>750</width>
+    <height>645</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>option</string>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>240</x>
+     <y>50</y>
+     <width>311</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>25</pointsize>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color: rgb(85, 0, 127);</string>
+   </property>
+   <property name="text">
+    <string>油色谱诊断程序</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>140</x>
+     <y>290</y>
+     <width>150</width>
+     <height>50</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>分类模块</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_2">
+   <property name="geometry">
+    <rect>
+     <x>310</x>
+     <y>290</y>
+     <width>150</width>
+     <height>50</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>预测模块</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_3">
+   <property name="geometry">
+    <rect>
+     <x>480</x>
+     <y>290</y>
+     <width>150</width>
+     <height>50</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>通讯设置</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_4">
+   <property name="geometry">
+    <rect>
+     <x>140</x>
+     <y>370</y>
+     <width>150</width>
+     <height>50</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>告警记录</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_5">
+   <property name="geometry">
+    <rect>
+     <x>480</x>
+     <y>370</y>
+     <width>150</width>
+     <height>50</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>使用帮助</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_6">
+   <property name="geometry">
+    <rect>
+     <x>310</x>
+     <y>370</y>
+     <width>150</width>
+     <height>50</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>模型介绍</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>350</x>
+     <y>600</y>
+     <width>72</width>
+     <height>15</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>欢迎使用</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
